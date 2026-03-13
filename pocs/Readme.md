@@ -9,6 +9,7 @@ Exploit PoCs for vulnerabilities disclosed by [tintinweb](https://github.com/tin
 
 | CVE                            | Description         |
 | ------------------------------ |:-------------:|
+| [nocve-2024-argent-x-cross-window-account-information-leak](nocve-2024-argent-x-cross-window-account-information-leak/Readme.md) | see readme |
 | [nocve-2021-ipns-downgrading-and-takeover](nocve-2021-ipns-downgrading-and-takeover/Readme.md) | see readme |
 | [nocve-2021-jsipns-signed-message-malleability](nocve-2021-jsipns-signed-message-malleability/Readme.md) | see readme |
 | [nocve-2021-jsipfs-api-cors-bypass-full-admin-write](nocve-2021-jsipfs-api-cors-bypass-full-admin-write/Readme.md) | see readme |
